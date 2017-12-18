@@ -32,5 +32,5 @@ http.createServer(app).listen(3000, function() {
  	console.log("Server is running");
 });
 
-// You will need an twillio account for this 
+// You will need an twilio account for this 
 // This is set up for the current 3.* of Twillio's sdk api
