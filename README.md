@@ -1,2 +1,2 @@
 # TextAlerts
-An simple rest api that sends texts messages using the twillio api
+An simple rest api that sends texts messages using the twilio api
